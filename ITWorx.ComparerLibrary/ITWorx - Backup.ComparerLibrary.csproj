@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Botros</Authors>
+    <Company>ITWorx</Company>
+    <Product>ComparerLibrary</Product>
+    <Description>library to compare objects, it reflects and compare any type or properties inside the object like primitive types, collections and datasets</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Compare, comparing, comparer</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+</Project>
